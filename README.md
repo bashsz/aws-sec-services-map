@@ -1,4 +1,8 @@
 # aws-sec-services-map
 Security services map diag
 
- <img width="85" alt="map-user" src="https://img.shields.io/badge/views-271-green"> <img width="125" alt="map-user" src="https://img.shields.io/badge/unique visits-090-green">
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your-github-username&theme=dark)](https://git.io/streak-stats)
+
+![Bash's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+
